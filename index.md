@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Provisioning Profile Manager
 
-You can use the [editor on GitHub](https://github.com/batikansosun/provisioning_manager/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+With a slick yet powerful interface with advanced search options, this application will put you in the driver's seat to manage provisioning profiles.
 
-- Bulleted
-- List
+With Provisioning Profile Manager, you can manage installed provisioning profiles from your Mac and identify expired, corrupted, or otherwise unavailable entries.
 
-1. Numbered
-2. List
+Learn everything you need to know about a specific provisioning profile expiration date, certificates, whitelisted UDIDs, and more.
 
-**Bold** and _Italic_ and `Code` text
+Due to popular demand, Managing Profile Provisioning now allows you to compare two or more profiles - stop guessing and quickly identify missing UDIDs, certificates, or authorizations.
 
-[Link](url) and ![Image](src)
-```
+Filter and group profiles by platform, team, or validity.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+IMPORTANT! when you first launch the app you must select "provisioning profile" directory from Open File Dialog Window. That will be open automatically and one-time. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batikansosun/provisioning_manager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

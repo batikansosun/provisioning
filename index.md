@@ -17,4 +17,6 @@ Filter and group profiles by platform, team, or validity.
 
 IMPORTANT! when you first launch the app you must select "provisioning profile" directory from Open File Dialog Window. That will be open automatically and one-time. 
 
+https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/79/dc/44/79dc4495-3025-4324-cb64-27619f994a8b/pr_source.png/0x0ss-P3.jpg
+
 

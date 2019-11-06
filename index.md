@@ -17,8 +17,8 @@ Filter and group profiles by platform, team, or validity.
 
 IMPORTANT! when you first launch the app you must select "provisioning profile" directory from Open File Dialog Window. That will be open automatically and one-time. 
 
-0x0ss-P3.jpg
-0x0ss-P3-1.jpg
-0x0ss-P3-2.jpg
-0x0ss-P3-3.jpg
-0x0ss-P3-4.jpg
+
+<img src="0x0ss-P3-1.jpg">
+<img src="0x0ss-P3-2.jpg">
+<img src="0x0ss-P3-3.jpg">
+<img src="0x0ss-P3-4.jpg">
